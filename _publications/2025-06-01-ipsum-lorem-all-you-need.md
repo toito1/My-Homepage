@@ -8,7 +8,7 @@ date: 2025-06-01
 venue: 'Accepted at COML 2025 - Conference on Machine Learning'
 slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
 paperurl: 'https://openreview.net/forum?id=example123'
-codeurl: 'https://github.com/mcptest-user/ipsum-lorem-all-you-need'
+codeurl: 'https://github.com/toito1/ipsum-lorem-all-you-need'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
 citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Accepted at COML 2025 - Conference on Machine Learning</i>.'
 ---
